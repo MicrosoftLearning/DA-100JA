@@ -110,7 +110,7 @@ Power BI Desktop における高度なデータ モデリング
 
 20. 「モデリング」 ビューに切り替え、ダイアグラム上で 「**Salesperson**」 テーブルを選択します。 
 
-21. 「**プロパティ**」 ウィンドウの  「**名前**」 ボックスで 、テキストを **Salesperson(Performance)** に置き換えます。   
+21. 「**プロパティ**」 ウィンドウの  「**名前**」 ボックスで 、テキストを **Salesperson (Performance)** に置き換えます。   
 
 	*名前を変更したテーブルは、割り当てられた販売地域 の販売に基づいて営業担当者の業績を報告し、分析するために使用するという目的を反映します*。
 
@@ -118,7 +118,7 @@ Power BI Desktop における高度なデータ モデリング
 
 このタスクでは **ターゲット** テーブルにリレーションシップを作成します。
 
-1. **Salesperson(Performance) | EmploeyeeID** から  **Target | EmployeeID** 列にリレーションシップを作成します
+1. **Salesperson (Performance) | EmploeyeeID** から  **Target | EmployeeID** 列にリレーションシップを作成します
 
 2. レポート ビューで、 **Targets|Target**を視覚化されたテーブルに追加します。
 
