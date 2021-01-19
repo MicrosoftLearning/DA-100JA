@@ -139,7 +139,6 @@ Power BI Desktop での DAX の使用、パート 1
 
 1. 「**テーブル ツール**」 コンテキスト リボンの 「**計算**」 グループ内から、「**新しい列(New colmuns)**」 をクリックします。
 
-	![画像 11](Linked_image_Files/PowerBI_Lab06A_image11.png)
 
 2. 数式バーに次のように入力して、**Enter** キーを押します。
 
