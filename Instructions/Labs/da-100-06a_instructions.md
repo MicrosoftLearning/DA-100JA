@@ -249,7 +249,7 @@ Power BI Desktop での DAX の使用、パート 1
 
 	* **Date | Date** から **Sales | Orderdate**
 
-	* **Date | Date ** から **Target | TargetMonth**
+	* **Date | Date** から **Target | TargetMonth**
 
 5. 次の 2 つの列を非表示にします。
 
