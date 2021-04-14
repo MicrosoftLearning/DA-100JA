@@ -206,8 +206,7 @@ Power BI Desktop での DAX の使用、パート 1
 
 	```
 	MonthKey =
-
-	(YEAR('Date'[Date]) * 100) + MONTH('Date'[Date]) + MONTH ( [Date] )
+	(YEAR('Date'[Date]) * 100) + MONTH('Date'[Date])
 	```
 
 	*この式は、年/月の組み合わせごとに数値を計算します*。
