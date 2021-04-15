@@ -36,7 +36,7 @@ Power BI Desktop でのデータ分析
 
 	![画像 1](Linked_image_Files/PowerBI_Lab11A_image2.png)
 
-3. **販売分析**データセットへのライブ接続を作成します。
+3. **Sales Analysis**データセットへのライブ接続を作成します。
 
 	*ヒント: 「**ホーム**」 リボン タブの 「**データの取得**」 コマンドを使用し、「**Power BI データセット**」 を選択します*。
 
